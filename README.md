@@ -8,7 +8,7 @@ To find your course id, navigate to your smartbook questions page, use **Inspect
 
 ![inspect](https://github.com/rainbrot/js-smartbook-solver/blob/main/inspect.png?raw=true)
 
-The part of the link between "smart-factory" and "smart-package" is your course id. In my case, this is **cf3ce96e-01d5-4dad-a6cb-f9596a0b5219**.
+The part of the link between "smart-factory" and "smart-package" is your course id. In my case, this is **cf3ce96e-01d5-4dad-a6cb-f9596a0b5219**. If you're in the same 9th grade physics course as me, you can just use the same one.
 
 ![link](https://github.com/rainbrot/js-smartbook-solver/blob/main/link.png?raw=true)
 
