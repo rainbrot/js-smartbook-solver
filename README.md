@@ -13,7 +13,7 @@ The part of the link between "smart-factory" and "smart-package" is your course 
 ![link](https://github.com/rainbrot/js-smartbook-solver/blob/main/link.png?raw=true)
 
 # How to use it
-First, copy the code from [shortened.js](https://github.com/rainbrot/js-smartbook-solver/blob/main/shortened.js) (or from [solver.js](https://github.com/rainbrot/js-smartbook-solver/blob/main/solver.js), but they do literally the exact same thing), then get the part of the code that says **var courseId = "";** and put your course id between the quotes.
+First, copy the code from [shortened.js](https://github.com/rainbrot/js-smartbook-solver/blob/main/shortened.js) (or from [solver.js](https://github.com/rainbrot/js-smartbook-solver/blob/main/solver.js), but they do literally the exact same thing. Also, you can paste in the code from [shortened.js](https://github.com/rainbrot/js-smartbook-solver/blob/main/shortened.js) in bookmarklet form and it will still work.), then get the part of the code that says **var courseId = "";** and put your course id between the quotes.
 Second, go to your smartbook questions page and open Inspect Element, then navigate to the console and paste in the code. (You may need to type in "allow pasting" then press enter before you paste the code in)
 
 It's that easy!
