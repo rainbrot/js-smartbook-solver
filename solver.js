@@ -16,7 +16,7 @@ let decipherPayload = function(input) {
 };
 ///////////////////////////////// The actual code, I'm way too lazy to add comments for everything it does, so you can decipher it yourself :D
 let answerQ = function() {
-  fetch("https://bento.mheducation.com/files/smart-factory/"+courseId+"/smart-package/assessment-items/" + document.getElementsByClassName("readspeaker")[0].getAttribute("data-probe-id") + ".json", {
+  fetch("https://smartfactory-api.prod.mheducation.com/files/smart-factory/"+courseId+"/smart-package/assessment-items/" + document.getElementsByClassName("readspeaker")[0].getAttribute("data-probe-id") + ".json", {
       "headers": {
           "accept": "application/json, text/plain, */*",
           "accept-language": "en-US,en;q=0.9",
